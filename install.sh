@@ -22,5 +22,3 @@ echo "USE mysql;"
 echo "SET PASSWORD FOR 'root'@'localhost' = PASSWORD('PUT_HERE_YOUR_PASSWORD');"
 echo "FLUSH PRIVILEGES;"
 sleep 3
-echo "Starting MariaDB server..."
-mysqld_safe &
