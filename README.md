@@ -66,8 +66,11 @@ Termux doesn't have a traditional init system.  You'll need a workaround to star
 nano ~/.bashrc
 ```
 
- * Add the line mysqld_safe & at the end of the file.
- * Save the file.
+ * Add the line `mysqld_safe &` at the end of the file.
+```
+mysqld_safe &
+```
+ * Save the file. (Ctrl+X)
 
 This will start MariaDB every time you open a new Termux session.
 
