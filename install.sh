@@ -1,9 +1,9 @@
 #!/bin/bash
 
 echo "Updating Termux packages..."
-pkg update && pkg upgrade -y
+apt update && apt upgrade -y
 echo "Installing MariaDB..."
-pkg install mariadb -y
+apt install mariadb -y
 clear
 echo "To Run MariaDB MySQL Server:"
 echo "----------------------------"
