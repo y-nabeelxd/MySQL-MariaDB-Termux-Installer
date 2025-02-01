@@ -6,5 +6,8 @@ apt update -y && apt upgrade -y && apt install git -y && apt install bash -y && 
 ```
 <details>
   <summary>Install Basic Commands of Termux</summary>
-  [Click here!](https://github.com/y-nabeelxd/Termux-Auto-Package-Installer)
-</details>
+  <a href="https://github.com/y-nabeelxd/Termux-Auto-Package-Installer">
+  <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">
+    Click here!
+  </button>
+</a></details>
