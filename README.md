@@ -1,5 +1,5 @@
 # MySQL-MariaDB-Termux-Installer
-This Script Created for Easily Install MariaDB on Termux. [Install phpMyadmin? Click here](https://github.com/y-nabeelxd/Termux-phpmyadmin-installer)
+This Script Created for Easily Install MariaDB on Termux. | [Install phpMyadmin? Click here](https://github.com/y-nabeelxd/Termux-phpmyadmin-installer)
 
 # Installation
 
