@@ -73,6 +73,10 @@ mysqld_safe &
 ```
  * Save the file. (Ctrl+X)
 
+**Use this instead**
+```
+echo "mysqld_safe &" >> ~/.bashrc && source ~/.bashrc
+```
 This will start MariaDB every time you open a new Termux session.
 
 Key Considerations for Termux:
